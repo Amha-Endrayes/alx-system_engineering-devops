@@ -1,6 +1,9 @@
 Module: ALX System Engineering Devops
+
 Course: 0x00-shell Basics
+
 Readme: Description of Scripts
+
 -----------------------------------------MANDATORY--------------------------------------------------
             1-listit: lists the contents of the current directory
      2-bring_me_home: goes to the active user's home directory
