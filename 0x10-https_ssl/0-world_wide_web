@@ -19,4 +19,3 @@ then
 else
     info_Domain "$1" "$2"
 fi
-
