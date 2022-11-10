@@ -8,8 +8,7 @@ CREATE TABLE IF NOT EXISTS nexus6(
 );
 
 INSERT INTO nexus6 VALUES
-	(1, 'Jake'),
-	(2, 'Rose')
+	(1, 'Leon')
 ;
 
 USE mysql;
