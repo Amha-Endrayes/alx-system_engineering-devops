@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
 # Fixes the nginx listening port and reloads the nginx master process
 sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
-pgrep nginx -o > /run/nginx.pid
 sudo service nginx restart
-echo '' > /run/nginx.pid
